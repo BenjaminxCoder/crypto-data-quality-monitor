@@ -9,6 +9,10 @@ __pycache__/
 .venv/
 env/
 
+# Local project/CLI artifacts
+*.json
+!pyproject.json    # if you ever adopt it intentionally
+
 # IDE
 .vscode/
 .idea/
