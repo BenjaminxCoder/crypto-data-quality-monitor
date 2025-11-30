@@ -3,19 +3,21 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
 
-# Environments
+# Envs
 .venv/
 env/
+venv/
 
-# Local project/CLI artifacts
-*.json
-!pyproject.json    # if you ever adopt it intentionally
-
-# IDE
+# Editors
 .vscode/
 .idea/
+
+# Local artifacts
+*.json
+fields.json
+project.json
+projects.json
 
 # Data
 data/*.csv
