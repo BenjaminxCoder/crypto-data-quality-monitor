@@ -1,0 +1,1 @@
+"""Skeleton: CLI entrypoint `dq report <path>` wired in later issue."""
