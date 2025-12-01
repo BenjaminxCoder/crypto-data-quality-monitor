@@ -1,4 +1,4 @@
 """
-    Skeleton: Pydantic Transaction model placeholder.
-    No validators implemented.
+Skeleton: Pydantic Transaction model placeholder.
+No validators implemented.
 """
