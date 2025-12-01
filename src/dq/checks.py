@@ -1,3 +1,3 @@
 """
-    Skeleton: Declare check function signatures in later issue. No logic.
+Skeleton: Declare check function signatures in later issue. No logic.
 """
